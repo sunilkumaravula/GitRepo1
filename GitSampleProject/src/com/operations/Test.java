@@ -7,6 +7,8 @@ public class Test {
 		//Tested successfully..
 		
 		//added abc
+		Math m = new Math();
+		m.sum(2,4);
 	}
 
 }
